@@ -1,0 +1,5 @@
+D:\ZTree\ZTree\bin\ZTree.dll
+D:\ZTree\ZTree\bin\ZTree.pdb
+D:\ZTree\ZTree\obj\Debug\ResolveAssemblyReference.cache
+D:\ZTree\ZTree\obj\Debug\ZTree.dll
+D:\ZTree\ZTree\obj\Debug\ZTree.pdb
